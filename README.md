@@ -5,7 +5,6 @@ Welcome to my machine learning projects repository! This repository contains a c
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Projects](#projects)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
