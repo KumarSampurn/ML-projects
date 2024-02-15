@@ -18,7 +18,7 @@ This repository serves as a showcase of my work in the field of machine learning
 Feel free to explore the projects and use the code as a reference for your own machine learning endeavors. You can clone the repository using the following command:
 
 ```
-git clone https://github.com/your-username/ml-projects.git
+git clone https://github.com/KumarSampurn/ML-projects.git
 ```
 
 Make sure to install the necessary dependencies listed in the project.
